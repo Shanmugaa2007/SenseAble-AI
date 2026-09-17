@@ -2,7 +2,7 @@
 
 ![SenseAble AI](assets/hero.png)
 
-### AI-Powered Universal Accessibility & Automation Platform
+## AI-Powered Universal Accessibility & Automation Platform
 
 > **Technology That Adapts to You, Not You to It.**
 
@@ -12,13 +12,7 @@ SenseAble AI transforms smartphones into intelligent assistants that adapt to ea
 
 ---
 
-## Live Prototype
-
-🔗 https://hall-zebra-89727725.figma.site/
-
----
-
-## Project Overview
+# Project Overview
 
 ![Project Overview](assets/project-overview.png)
 
@@ -38,7 +32,7 @@ SenseAble AI is an AI-powered universal accessibility platform that creates a pe
 
 ---
 
-## Architecture
+# Architecture
 
 ![Architecture](assets/architecture.png)
 
@@ -46,7 +40,7 @@ The system combines smartphone hardware, AI models, computer vision, speech proc
 
 ---
 
-## How It Works
+# How It Works
 
 ![How It Works](assets/how-it-works.png)
 
@@ -62,7 +56,7 @@ SenseAble AI intelligently adapts interaction methods based on the user's access
 
 ---
 
-## Accessibility Modes
+# Accessibility Modes
 
 ![Accessibility Modes](assets/accessibility-modes.png)
 
@@ -76,11 +70,11 @@ SenseAble AI intelligently adapts interaction methods based on the user's access
 
 ---
 
-## Technology Stack
+# Technology Stack
 
 ![Technology Stack](assets/tech-stack.png)
 
-### Mobile
+### Mobile Development
 
 - React Native
 - Android Studio
@@ -105,15 +99,17 @@ SenseAble AI intelligently adapts interaction methods based on the user's access
 
 ---
 
-## Prototype
+# Prototype
 
 ![Prototype](assets/prototype.png)
 
-The prototype demonstrates how SenseAble AI adapts its interface and assistance methods for different accessibility needs through a unified smartphone experience.
+Experience the interactive prototype showcasing how SenseAble AI adapts its interface and assistance methods for different accessibility needs.
+
+### 🔗 [Click Here to View Live Prototype](https://hall-zebra-89727725.figma.site/)
 
 ---
 
-## Why SenseAble AI?
+# Why SenseAble AI?
 
 Unlike traditional accessibility apps that solve only one problem, SenseAble AI combines multiple accessibility solutions into a single adaptive AI platform.
 
@@ -128,7 +124,7 @@ Unlike traditional accessibility apps that solve only one problem, SenseAble AI 
 
 ---
 
-## Future Roadmap
+# Future Roadmap
 
 - Real-time continuous sign language conversations
 - Smarter AI navigation
@@ -139,7 +135,7 @@ Unlike traditional accessibility apps that solve only one problem, SenseAble AI 
 
 ---
 
-## Vision
+# Vision
 
 > **Technology should adapt to people—not the other way around.**
 
